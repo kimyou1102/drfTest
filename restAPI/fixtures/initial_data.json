@@ -1,0 +1,38 @@
+[
+  {
+    "model": "restAPI.test",
+    "pk": 1,
+    "fields": {
+      "title": "오 제발",
+      "content": "테스트 데이터 내용5",
+      "updated_at": "2022-07-11T00:00:00Z"
+    }
+  },
+  {
+    "model": "restAPI.test",
+    "pk": 2,
+    "fields": {
+      "title": "대박",
+      "content": "테스트 데이터 내용이다!",
+      "updated_at": "2022-07-11T00:00:00Z"
+    }
+  },
+  {
+    "model": "restAPI.test",
+    "pk": 3,
+    "fields": {
+      "title": "대박대박",
+      "content": "테스트 데이터 내용내용",
+      "updated_at": "2022-07-11T00:00:00Z"
+    }
+  },
+  {
+    "model": "restAPI.test",
+    "pk": 4,
+    "fields": {
+      "title": "워터파크",
+      "content": "워후~~~~~~~~",
+      "updated_at": "2022-07-11T00:00:00Z"
+    }
+  }
+]
