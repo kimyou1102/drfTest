@@ -49,4 +49,6 @@ class PostDetail(APIView):
     def delete(self, request, pk, format=None):
         post = self.get_object(pk)
         post.delete()
-        return Response(status=status.HTTP_400_BAD_REQUEST)
+        return Response(status=status.HTTP_204_NO_CONTENT)
+
+
